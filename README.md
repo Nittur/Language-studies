@@ -1,1 +1,2 @@
-# Design Patterns
+Learning about languages syntax and semantics
+
